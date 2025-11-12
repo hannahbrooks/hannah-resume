@@ -1,9 +1,12 @@
 import React from 'react';
 import { Mail, MapPin, Linkedin, Github } from 'lucide-react';
+import { Analytics } from "@vercel/analytics/next"
+
 
 export default function ResumeSite() {
   return (
     <div className="min-h-screen bg-gray-50">
+      <Analytics />
       {/* Header */}
       <header className="bg-white shadow-sm">
         <div className="max-w-4xl mx-auto px-6 py-8">
