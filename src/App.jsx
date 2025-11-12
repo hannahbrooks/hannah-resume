@@ -70,7 +70,9 @@ export default function ResumeSite() {
                 <span className="text-gray-500 text-sm"><strong>June 2025 - Present</strong></span>
               </div>
               <ul className="text-gray-700 space-y-1">
-                <li>• Mentor to junior developers on a <strong>full-stack onboarding project</strong>—helped two new team members ramp up and integrate into the team within 2 months, with ongoing support as they continue to grow in their roles.</li>
+                <li>• Collaborated on the redesign of the digital sales funnel for a <strong>major financial institution</strong>, implementing a complex product catalog in <strong>Optimizely (.NET/C#)</strong> to improve product discoverability and customer conversion.</li>
+                <li>• Mentored <strong>two junior developers</strong> on a full-stack onboarding project, guiding their integration within <strong>2 months</strong> and providing ongoing support for continued growth.</li>
+                <li>• Supported technical <strong>hiring</strong> through resume screening and engineering interviews.</li>
               </ul>
             </div>
 
